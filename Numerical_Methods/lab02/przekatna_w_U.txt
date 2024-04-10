@@ -1,0 +1,2 @@
+Wartości na diagonali macierzy U : 0.5 0.0277778 0.00166665 0.000102006 
+Wyznacznik macierzy A : 2.36122e-09
