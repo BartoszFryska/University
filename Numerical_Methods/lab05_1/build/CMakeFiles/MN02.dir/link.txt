@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/MN02.dir/main.cpp.o CMakeFiles/MN02.dir/src/GeneralPurpouse.cpp.o CMakeFiles/MN02.dir/src/HouseHolder.cpp.o CMakeFiles/MN02.dir/src/Matrix.cpp.o -o MN02 
