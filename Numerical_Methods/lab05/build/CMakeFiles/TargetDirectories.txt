@@ -1,0 +1,3 @@
+/home/dziad/projects/METODY_NUMERYCZNE/lab05/build/CMakeFiles/MN02.dir
+/home/dziad/projects/METODY_NUMERYCZNE/lab05/build/CMakeFiles/edit_cache.dir
+/home/dziad/projects/METODY_NUMERYCZNE/lab05/build/CMakeFiles/rebuild_cache.dir
