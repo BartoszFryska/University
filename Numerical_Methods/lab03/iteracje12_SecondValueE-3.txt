@@ -1,0 +1,380 @@
+
+Iteracja 1
+Norma eukidesowa ||rk|| = 18243.7
+Wartosc alpha k = 0.257113
+Norma eukilidesowa ||xk|| = 0
+
+Iteracja 2
+Norma eukidesowa ||rk|| = 482.303
+Wartosc alpha k = 0.496902
+Norma eukilidesowa ||xk|| = 4690.69
+
+Iteracja 3
+Norma eukidesowa ||rk|| = 211.972
+Wartosc alpha k = 0.457341
+Norma eukilidesowa ||xk|| = 4696.81
+
+Iteracja 4
+Norma eukidesowa ||rk|| = 121.607
+Wartosc alpha k = 0.477434
+Norma eukilidesowa ||xk|| = 4709.05
+
+Iteracja 5
+Norma eukidesowa ||rk|| = 82.2151
+Wartosc alpha k = 0.452541
+Norma eukilidesowa ||xk|| = 4702.36
+
+Iteracja 6
+Norma eukidesowa ||rk|| = 56.1497
+Wartosc alpha k = 0.476838
+Norma eukilidesowa ||xk|| = 4712.58
+
+Iteracja 7
+Norma eukidesowa ||rk|| = 42.0986
+Wartosc alpha k = 0.453736
+Norma eukilidesowa ||xk|| = 4706.3
+
+Iteracja 8
+Norma eukidesowa ||rk|| = 30.905
+Wartosc alpha k = 0.478881
+Norma eukilidesowa ||xk|| = 4713.47
+
+Iteracja 9
+Norma eukidesowa ||rk|| = 24.4461
+Wartosc alpha k = 0.455726
+Norma eukilidesowa ||xk|| = 4708.71
+
+Iteracja 10
+Norma eukidesowa ||rk|| = 18.6939
+Wartosc alpha k = 0.481002
+Norma eukilidesowa ||xk|| = 4713.67
+
+Iteracja 11
+Norma eukidesowa ||rk|| = 15.2691
+Wartosc alpha k = 0.457473
+Norma eukilidesowa ||xk|| = 4710.2
+
+Iteracja 12
+Norma eukidesowa ||rk|| = 11.9747
+Wartosc alpha k = 0.482733
+Norma eukilidesowa ||xk|| = 4713.65
+
+Iteracja 13
+Norma eukidesowa ||rk|| = 9.98336
+Wartosc alpha k = 0.458857
+Norma eukilidesowa ||xk|| = 4711.15
+
+Iteracja 14
+Norma eukidesowa ||rk|| = 7.9599
+Wartosc alpha k = 0.484099
+Norma eukilidesowa ||xk|| = 4713.58
+
+Iteracja 15
+Norma eukidesowa ||rk|| = 6.72853
+Wartosc alpha k = 0.459958
+Norma eukilidesowa ||xk|| = 4711.77
+
+Iteracja 16
+Norma eukidesowa ||rk|| = 5.42654
+Wartosc alpha k = 0.485203
+Norma eukilidesowa ||xk|| = 4713.5
+
+Iteracja 17
+Norma eukidesowa ||rk|| = 4.6325
+Wartosc alpha k = 0.460864
+Norma eukilidesowa ||xk|| = 4712.19
+
+Iteracja 18
+Norma eukidesowa ||rk|| = 3.76751
+Wartosc alpha k = 0.486128
+Norma eukilidesowa ||xk|| = 4713.43
+
+Iteracja 19
+Norma eukidesowa ||rk|| = 3.24011
+Wartosc alpha k = 0.461636
+Norma eukilidesowa ||xk|| = 4712.48
+
+Iteracja 20
+Norma eukidesowa ||rk|| = 2.65212
+Wartosc alpha k = 0.486927
+Norma eukilidesowa ||xk|| = 4713.37
+
+Iteracja 21
+Norma eukidesowa ||rk|| = 2.29417
+Wartosc alpha k = 0.462311
+Norma eukilidesowa ||xk|| = 4712.68
+
+Iteracja 22
+Norma eukidesowa ||rk|| = 1.88754
+Wartosc alpha k = 0.487635
+Norma eukilidesowa ||xk|| = 4713.32
+
+Iteracja 23
+Norma eukidesowa ||rk|| = 1.64056
+Wartosc alpha k = 0.462914
+Norma eukilidesowa ||xk|| = 4712.82
+
+Iteracja 24
+Norma eukidesowa ||rk|| = 1.35554
+Wartosc alpha k = 0.488271
+Norma eukilidesowa ||xk|| = 4713.29
+
+Iteracja 25
+Norma eukidesowa ||rk|| = 1.18288
+Wartosc alpha k = 0.46346
+Norma eukilidesowa ||xk|| = 4712.92
+
+Iteracja 26
+Norma eukidesowa ||rk|| = 0.980921
+Wartosc alpha k = 0.48885
+Norma eukilidesowa ||xk|| = 4713.26
+
+Iteracja 27
+Norma eukidesowa ||rk|| = 0.858911
+Wartosc alpha k = 0.463957
+Norma eukilidesowa ||xk|| = 4712.99
+
+Iteracja 28
+Norma eukidesowa ||rk|| = 0.714501
+Wartosc alpha k = 0.489379
+Norma eukilidesowa ||xk|| = 4713.24
+
+Iteracja 29
+Norma eukidesowa ||rk|| = 0.627502
+Wartosc alpha k = 0.464414
+Norma eukilidesowa ||xk|| = 4713.04
+
+Iteracja 30
+Norma eukidesowa ||rk|| = 0.523439
+Wartosc alpha k = 0.489865
+Norma eukilidesowa ||xk|| = 4713.22
+
+Iteracja 31
+Norma eukidesowa ||rk|| = 0.460921
+Wartosc alpha k = 0.464833
+Norma eukilidesowa ||xk|| = 4713.07
+
+Iteracja 32
+Norma eukidesowa ||rk|| = 0.385424
+Wartosc alpha k = 0.490313
+Norma eukilidesowa ||xk|| = 4713.21
+
+Iteracja 33
+Norma eukidesowa ||rk|| = 0.340192
+Wartosc alpha k = 0.46522
+Norma eukilidesowa ||xk|| = 4713.1
+
+Iteracja 34
+Norma eukidesowa ||rk|| = 0.285094
+Wartosc alpha k = 0.490726
+Norma eukilidesowa ||xk|| = 4713.2
+
+Iteracja 35
+Norma eukidesowa ||rk|| = 0.252171
+Wartosc alpha k = 0.465577
+Norma eukilidesowa ||xk|| = 4713.12
+
+Iteracja 36
+Norma eukidesowa ||rk|| = 0.211746
+Wartosc alpha k = 0.491108
+Norma eukilidesowa ||xk|| = 4713.19
+
+Iteracja 37
+Norma eukidesowa ||rk|| = 0.187652
+Wartosc alpha k = 0.465907
+Norma eukilidesowa ||xk|| = 4713.13
+
+Iteracja 38
+Norma eukidesowa ||rk|| = 0.157852
+Wartosc alpha k = 0.491461
+Norma eukilidesowa ||xk|| = 4713.19
+
+Iteracja 39
+Norma eukidesowa ||rk|| = 0.140134
+Wartosc alpha k = 0.466212
+Norma eukilidesowa ||xk|| = 4713.14
+
+Iteracja 40
+Norma eukidesowa ||rk|| = 0.118071
+Wartosc alpha k = 0.491786
+Norma eukilidesowa ||xk|| = 4713.19
+
+Iteracja 41
+Norma eukidesowa ||rk|| = 0.104985
+Wartosc alpha k = 0.466494
+Norma eukilidesowa ||xk|| = 4713.15
+
+Iteracja 42
+Norma eukidesowa ||rk|| = 0.0885867
+Wartosc alpha k = 0.492087
+Norma eukilidesowa ||xk|| = 4713.18
+
+Iteracja 43
+Norma eukidesowa ||rk|| = 0.0788821
+Wartosc alpha k = 0.466754
+Norma eukilidesowa ||xk|| = 4713.16
+
+Iteracja 44
+Norma eukidesowa ||rk|| = 0.066651
+Wartosc alpha k = 0.492366
+Norma eukilidesowa ||xk|| = 4713.18
+
+Iteracja 45
+Norma eukidesowa ||rk|| = 0.0594278
+Wartosc alpha k = 0.466994
+Norma eukilidesowa ||xk|| = 4713.16
+
+Iteracja 46
+Norma eukidesowa ||rk|| = 0.0502752
+Wartosc alpha k = 0.492623
+Norma eukilidesowa ||xk|| = 4713.18
+
+Iteracja 47
+Norma eukidesowa ||rk|| = 0.044881
+Wartosc alpha k = 0.467216
+Norma eukilidesowa ||xk|| = 4713.16
+
+Iteracja 48
+Norma eukidesowa ||rk|| = 0.0380117
+Wartosc alpha k = 0.49286
+Norma eukilidesowa ||xk|| = 4713.18
+
+Iteracja 49
+Norma eukidesowa ||rk|| = 0.0339708
+Wartosc alpha k = 0.467422
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 50
+Norma eukidesowa ||rk|| = 0.0288012
+Wartosc alpha k = 0.49308
+Norma eukilidesowa ||xk|| = 4713.18
+
+Iteracja 51
+Norma eukidesowa ||rk|| = 0.0257657
+Wartosc alpha k = 0.467611
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 52
+Norma eukidesowa ||rk|| = 0.0218655
+Wartosc alpha k = 0.493283
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 53
+Norma eukidesowa ||rk|| = 0.0195792
+Wartosc alpha k = 0.467787
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 54
+Norma eukidesowa ||rk|| = 0.01663
+Wartosc alpha k = 0.49347
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 55
+Norma eukidesowa ||rk|| = 0.014904
+Wartosc alpha k = 0.467949
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 56
+Norma eukidesowa ||rk|| = 0.0126692
+Wartosc alpha k = 0.493643
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 57
+Norma eukidesowa ||rk|| = 0.0113632
+Wartosc alpha k = 0.468099
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 58
+Norma eukidesowa ||rk|| = 0.00966644
+Wartosc alpha k = 0.493804
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 59
+Norma eukidesowa ||rk|| = 0.00867629
+Wartosc alpha k = 0.468237
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 60
+Norma eukidesowa ||rk|| = 0.0073858
+Wartosc alpha k = 0.493952
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 61
+Norma eukidesowa ||rk|| = 0.0066337
+Wartosc alpha k = 0.468366
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 62
+Norma eukidesowa ||rk|| = 0.00565057
+Wartosc alpha k = 0.49409
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 63
+Norma eukidesowa ||rk|| = 0.00507831
+Wartosc alpha k = 0.468485
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 64
+Norma eukidesowa ||rk|| = 0.00432821
+Wartosc alpha k = 0.494217
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 65
+Norma eukidesowa ||rk|| = 0.0038921
+Wartosc alpha k = 0.468595
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 66
+Norma eukidesowa ||rk|| = 0.00331898
+Wartosc alpha k = 0.494335
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 67
+Norma eukidesowa ||rk|| = 0.00298614
+Wartosc alpha k = 0.468697
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 68
+Norma eukidesowa ||rk|| = 0.0025477
+Wartosc alpha k = 0.494445
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 69
+Norma eukidesowa ||rk|| = 0.00229333
+Wartosc alpha k = 0.468792
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 70
+Norma eukidesowa ||rk|| = 0.00195751
+Wartosc alpha k = 0.494547
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 71
+Norma eukidesowa ||rk|| = 0.00176286
+Wartosc alpha k = 0.468881
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 72
+Norma eukidesowa ||rk|| = 0.00150536
+Wartosc alpha k = 0.494642
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 73
+Norma eukidesowa ||rk|| = 0.00135625
+Wartosc alpha k = 0.468963
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 74
+Norma eukidesowa ||rk|| = 0.00115861
+Wartosc alpha k = 0.494731
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 75
+Norma eukidesowa ||rk|| = 0.00104425
+Wartosc alpha k = 0.46904
+Norma eukilidesowa ||xk|| = 4713.17
+
+Iteracja 76
+Norma eukidesowa ||rk|| = 0.000892404
+Wartosc alpha k = 0.494813
+Norma eukilidesowa ||xk|| = 4713.17
