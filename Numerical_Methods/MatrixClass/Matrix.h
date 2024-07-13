@@ -7,6 +7,7 @@
 #include<cstdlib>
 #include <fstream>
 #include <iomanip>
+#include <cmath>
 
 class Matrix {
 
@@ -31,6 +32,7 @@ public:
     Matrix operator / ( const double a );
     std::vector < double > & operator [] ( size_t a ); 
     Matrix reverse ();
+    //Matrix adj();
     Matrix transponate ();
     size_t Columns () { return cols; };
     size_t Rows () { return rows; };
@@ -39,7 +41,13 @@ public:
     Matrix returnRow ( size_t i );
     double returnVectorNorm ();
     void normaliseVector();
+    Matrix triangulate();
     //Matrix operator=( Matrix matrix );
+};
+
+namespace MATRIX {
+
+    Matrix SolveXForAXequalsY ( Matrix A, Matrix Y );
 };
 
 //Matrix operator * ( Matrix matrix, const double a ) { return matrix.operator*(a); }

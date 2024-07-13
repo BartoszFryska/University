@@ -213,7 +213,31 @@ Matrix Matrix::reverse () {
         return (*this);
     }
 
-    return (*this).transponate() / (*this).det();
+    Matrix tempReversedMatrix ( rows );
+
+    Matrix temp_matrix_b ( rows, 1 );
+
+    *this = (*this) * 0.1; 
+
+    for ( int i = 0; i < rows; i ++ ) {
+
+        temp_matrix_b.CreateMatrixOfZeroes ( rows, 1 );
+
+        temp_matrix_b [ i ] [ 0 ] = 1;
+
+        Matrix temp = MATRIX::SolveXForAXequalsY ( *this, temp_matrix_b ) ;
+
+        for ( int j = 0; j < rows; j ++ ) {
+            
+            tempReversedMatrix [ j ] [ i ] = temp [ j ] [ 0 ];
+        }
+    }
+
+    tempReversedMatrix = tempReversedMatrix * 0.100 ;
+
+    *this = (*this) / 0.1; 
+
+    return tempReversedMatrix;
 }
 
 Matrix Matrix::transponate () {
@@ -333,6 +357,63 @@ void Matrix::normaliseVector() {
 
     (*this) = (*this) / returnVectorNorm();
     return;
+}
+
+
+Matrix MATRIX::SolveXForAXequalsY ( Matrix A, Matrix Y ) {
+
+    if ( A.Rows() != A.Columns() || A.Rows() != Y.Rows() ) {
+
+        Matrix c ( A.Rows(), 1 );
+
+        return c;
+    }
+
+    float  multiplier = 0;
+
+    for ( int current_row = 0; current_row < A.Columns(); current_row ++ ) {
+
+        for ( int row_to_delete_from = current_row + 1; row_to_delete_from < A.Rows(); row_to_delete_from ++ ) {
+
+            multiplier = A [ row_to_delete_from ] [ current_row ] / A [ current_row ] [ current_row ];
+
+            A [ row_to_delete_from ] [ current_row ] = 0.0000000;
+
+            for ( int col = current_row + 1; col < A.Rows(); col ++ ) {
+
+                A [ row_to_delete_from ] [ col ] -= multiplier * A [ current_row ] [ col ]; 
+            }
+
+            Y [ row_to_delete_from ] [ 0 ] -= ( multiplier ) * Y [ current_row ] [ 0 ];
+        }
+    }
+
+    Matrix c_ForGauss ( A.Rows(), 1 );
+
+    float temp = 0;
+
+    for ( int row = A.Rows() - 1; row >= 0; row -- ) {
+
+        temp = Y [ row ] [ 0 ];
+
+        for ( int col = A.Rows() - 1; col > row; col -- ) {
+
+            temp -= A [ row ] [ col ] * c_ForGauss [ A.Rows() - 1 - col ] [ 0 ];
+        }
+
+        temp /= A [ row ] [ row ];
+
+        c_ForGauss [ A.Rows() - row - 1 ] [ 0 ] = temp;
+    }
+
+    Matrix temp2 ( A.Rows(), 1 );
+
+    for ( int i = A.Rows() - 1; i >= 0; i -- ) {
+
+        temp2 [ A.Rows() - i - 1 ] [ 0 ] = c_ForGauss [ i ] [ 0 ];
+    }
+
+    return temp2;
 }
 
 // Matrix Matrix::operator=( Matrix matrix ){
