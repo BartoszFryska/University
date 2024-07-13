@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/MN01.dir/main.cpp.o CMakeFiles/MN01.dir/src/GaussJordanMethod.cpp.o CMakeFiles/MN01.dir/src/GaussMethod.cpp.o CMakeFiles/MN01.dir/src/GeneralPurpouse.cpp.o -o MN01 
